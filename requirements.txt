@@ -1,0 +1,6 @@
+LangGraph
+requests
+beautifulsoup4
+pandas
+pytest
+python-dotenv
